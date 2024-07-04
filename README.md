@@ -1,16 +1,4 @@
-# uas_project
+![image](https://github.com/ahmdirfn11/UAS_2024_211011401533_Ahmad-irfan-fauzi/assets/154257192/4b56e797-ad35-494d-8194-7982cf8f0bab)
+![image](https://github.com/ahmdirfn11/UAS_2024_211011401533_Ahmad-irfan-fauzi/assets/154257192/4c8bd94f-dfa4-4218-baff-9448984be792)
+![image](https://github.com/ahmdirfn11/UAS_2024_211011401533_Ahmad-irfan-fauzi/assets/154257192/55437708-5440-459a-9d06-b8e64d2c56d1)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
